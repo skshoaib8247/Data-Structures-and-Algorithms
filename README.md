@@ -6,10 +6,12 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
@@ -36,4 +38,8 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
