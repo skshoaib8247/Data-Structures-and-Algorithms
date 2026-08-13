@@ -42,4 +42,17 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
