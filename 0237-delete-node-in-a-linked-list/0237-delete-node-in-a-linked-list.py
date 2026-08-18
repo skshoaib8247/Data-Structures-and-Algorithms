@@ -13,3 +13,4 @@ class Solution:
         node.val = node.next.val
         # Skip the next node
         node.next = node.next.next
+# We never reach B, because there is no path from A to B anymore.
