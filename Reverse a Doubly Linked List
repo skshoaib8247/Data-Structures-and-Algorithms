@@ -1,0 +1,80 @@
+class Node:
+    def __init__(self, val):
+        self.data = val
+        self.next = None
+        self.prev = None
+
+
+class Solution:
+    def reverse(self, head):
+        temp = head
+        mp = {}
+        i = 0
+
+        # Store values
+        while temp!=None:
+            mp[i] = temp.data
+            i += 1
+            temp = temp.next
+
+        # Put values back in reverse order
+        temp = head
+
+        for j in range(i - 1, -1, -1):
+            temp.data = mp[j]
+            temp = temp.next
+
+        return head
+class Solution:
+  def reverse(self, head):
+    stack = []
+    temp = head
+
+    # Put all values into stack
+    while temp is not None:
+        stack.append(temp.data)
+        temp = temp.next
+
+    # Put values back in reverse order
+    temp = head
+
+    while temp is not None:
+        temp.data = stack.pop()
+        temp = temp.next
+
+    return head
+class Solution:
+ def reverse(self, head):
+
+    curr = head
+    prev = None
+
+    while curr is not None:
+
+        front = curr.next
+
+        curr.next = prev
+        curr.prev = front
+
+        prev = curr
+        curr = front
+
+    return prev
+# class Solution:
+#     def reverse(self, head):
+#         # code here
+#         q =head
+#         temp=head
+#         while temp.next!=None:
+#             temp=temp.next
+#         head =temp
+#         return head,q   #is equivalent to return (5, 3)
+
+# 3 ⇄ 4 ⇄ 5
+#          ↑
+#         head 
+        
+# 5 ⇄ 4 ⇄ 3
+#   it should be like this
+
+# while False: stops
