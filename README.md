@@ -51,6 +51,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -59,6 +60,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
