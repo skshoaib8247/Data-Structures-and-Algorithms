@@ -7,6 +7,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0451-sort-characters-by-frequency](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
@@ -60,10 +61,16 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
