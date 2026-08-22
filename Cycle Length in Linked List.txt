@@ -1,0 +1,15 @@
+class Solution:
+ def lengthOfLoop(self, head):
+    hash_set = {}
+    i = 0
+    temp = head
+
+    while temp:
+        if temp in hash_set:
+            return i - hash_set[temp]
+
+        hash_set[temp] = i
+        temp = temp.next
+        i += 1
+
+    return 0
