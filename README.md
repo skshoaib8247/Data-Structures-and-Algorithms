@@ -66,6 +66,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 | [0142-linked-list-cycle-ii](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
