@@ -62,6 +62,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
@@ -70,6 +71,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
