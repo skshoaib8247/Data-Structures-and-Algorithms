@@ -1,0 +1,52 @@
+"""
+class Node:
+
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+        self.prev = None
+
+"""
+class Solution:
+ def deleteAllOccurOfX(self, head, x):
+    curr = head
+
+    while curr:
+        if curr.data == x:
+            if curr.prev:
+                curr.prev.next=curr.next
+                # curr.prev=None
+            else:
+                head=head.next
+            if curr.next:
+                curr.next.prev=curr.prev
+                
+        curr=curr.next
+
+    return head
+# 1 <------> 3
+
+# 2
+# ↑
+# curr
+# You have simply changed the old node's prev pointer.
+# BEFORE DELETE
+
+# 1 <-> 3 <-> 2 <-> 4
+#      ↑
+#     curr
+
+
+# AFTER reconnecting
+
+# 1 <------> 2 <-> 4
+#      ❌ 3
+#          ↑
+#       curr.next
+
+
+# curr = curr.next
+
+# 1 <------> 2 <-> 4
+#           ↑
+#          curr
