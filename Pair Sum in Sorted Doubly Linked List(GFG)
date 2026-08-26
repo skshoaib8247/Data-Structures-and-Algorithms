@@ -1,0 +1,24 @@
+# Structure of Doubly Linked List Node
+'''
+class Node:
+    def __init__(self, val):
+        self.data = val
+        self.next = None
+        self.prev = None
+'''
+
+class Solution:
+    def givenSumPairs(self, head, target):
+        i=0
+        l=[]
+        hash_map={}
+        temp=head
+        while temp!=None:
+            remaining=target-temp.data
+            if remaining in hash_map:
+                l.append([remaining,temp.data])
+            hash_map[temp.data]=i
+            temp=temp.next
+            i+=1
+        l.sort()
+        return l
