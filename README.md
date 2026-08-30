@@ -45,6 +45,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -54,6 +55,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -80,4 +82,8 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
