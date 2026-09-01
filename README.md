@@ -86,4 +86,5 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
