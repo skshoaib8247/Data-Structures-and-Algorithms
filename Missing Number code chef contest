@@ -1,0 +1,37 @@
+# cook your dish here
+s = int(input())
+
+print(10 - s)
+# s = int(input())
+# a = []
+# b = [1,2,3,4]
+
+# for i in b:
+#     sum = 0
+#     for j in b:
+#         if j != i:
+#             sum += j
+#             a.append(j)
+
+#     if sum == s:
+#         print(i)
+
+#     a.clear()
+# s=int(input())
+# a=[]
+# b=[1,2,3,4]
+# sum=0
+# for i in b:
+#     for j in range(i,5):
+#         sum+=j
+#         a.append(j)
+   
+#     if sum == s:
+#         for k in b:
+#                 if k not in a:
+#                      print(k)
+#     a.clear()
+#     sum=0
+    
+# But for S = 6, we need:
+# 1 + 2 + 3 = 6
