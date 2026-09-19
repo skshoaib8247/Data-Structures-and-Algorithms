@@ -46,6 +46,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 | ------- |
 | [0013-roman-to-integer](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -95,4 +96,12 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
