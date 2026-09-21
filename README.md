@@ -36,6 +36,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -104,4 +105,16 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0258-add-digits) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
