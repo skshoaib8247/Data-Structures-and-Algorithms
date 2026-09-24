@@ -1,9 +1,8 @@
 class Solution:
     def minBitFlips(self, start: int, goal: int) -> int:
-        x=start^goal
-        count=0
-        while x:
-          x=x&(x-1)
-          count+=1
-        return count
-        
+        ans = start^goal
+        c=0
+        while ans:
+            ans=ans&ans-1
+            c+=1
+        return c
