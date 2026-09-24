@@ -1,0 +1,6 @@
+class Solution:
+    def getOddOccurrence(self, arr):
+        xor=0
+        for i in arr:
+            xor=xor^i
+        return xor
