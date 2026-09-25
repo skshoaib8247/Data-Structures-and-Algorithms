@@ -88,12 +88,14 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0136-single-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
