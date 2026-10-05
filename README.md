@@ -54,6 +54,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -97,6 +98,7 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 ## Backtracking
@@ -128,4 +130,8 @@ Python solutions to LeetCode problems, focused on DSA and optimized approaches.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/skshoaib8247/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
