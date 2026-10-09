@@ -1,0 +1,13 @@
+class Solution:
+    def binstr(self, n):
+        # code here
+        res=[]
+        def fun(s):
+            nonlocal n
+            if len(s)==n:
+               res.append(s)
+               return
+            fun(s+"0")
+            fun(s+"1")
+        fun("")
+        return res
